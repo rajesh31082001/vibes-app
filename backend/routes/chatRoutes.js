@@ -5,7 +5,7 @@ const router = express.Router();
 
 // OpenAI configuration
 const openai = new OpenAI({
-  apiKey: "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",  // Ensure API key is used
+  apiKey: "your-api-key-here",  // Ensure API key is used
 });
 
 
